@@ -1,0 +1,10 @@
+flask
+langchain-google-genai
+pandas
+pymongo 
+python-dotenv
+torch 
+sentence-transformers 
+requests
+pinecone-client 
+groq
