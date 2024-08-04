@@ -6,3 +6,6 @@ sentence-transformers
 requests
 pinecone-client 
 groq
+torchvision
+torchaudio
+torch
